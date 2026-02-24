@@ -11,5 +11,7 @@ Final Project for Software Engineering Course, AUEB 2024. An Android Pharmaceuti
 
 ## Build
 Open the project in Android Studio.
+
 Click Make Project (Ctrl+F9).
-Select a device/emulator and click Run
+
+Select a device/emulator and click Run.
